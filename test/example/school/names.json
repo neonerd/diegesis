@@ -1,0 +1,10 @@
+{
+    "male": {
+        "firstName": ["Andrej", "Adam", "Brano", "Dominik", "Daniel", "Denis", "Eugen", "Frantisek", "Ivan", "Jozef"],
+        "lastName": [""]
+    },
+    "female": {
+        "firstName": [""],
+        "lastName": [""]
+    }
+}
